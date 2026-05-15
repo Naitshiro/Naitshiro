@@ -11,10 +11,6 @@ I'm a CS student, currently focusing on **systems researcher**, **binary analysi
 * 🤖 **`Torito Engine`**
   * re server worker for automated malware analysis
   * `c++`
-    
-* 🌐 **`Torito Sandbox`**
-  * frontend orchestration layer
-  * `css`, `html`, `js`, `react`
 
 ### Research Logs
 * 🔍 **`Reverse Engineering`**
